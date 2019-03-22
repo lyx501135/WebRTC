@@ -1,2 +1,2 @@
-# webrtc_skylink
+# WebRTC_Skylink
 WebRTC framework for Skylink usage
