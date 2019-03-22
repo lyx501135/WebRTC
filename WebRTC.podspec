@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.version          = "0.0.1"
   s.summary          = "WebRTC.framework distribution"
   s.description      = "WebRTC.framework distribution for iOS"
-  s.homepage         = "https://github.com/Temasys/SKYLINK-iOS"
+  s.homepage         = "https://github.com/lyx501135/WebRTC"
   s.license          = 'MIT'
   s.author           = { "Temasys Communications" => "yuxi.liu@temasys.io" }
   s.source           = { :git => "https://github.com/lyx501135/WebRTC.git", :tag => s.version.to_s }
