@@ -8,14 +8,14 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "WebRTC_Skylink"
+  s.name             = "WebRTC"
   s.version          = "0.0.1"
   s.summary          = "WebRTC.framework distribution"
   s.description      = "WebRTC.framework distribution for iOS"
   s.homepage         = "https://github.com/Temasys/SKYLINK-iOS"
   s.license          = 'MIT'
   s.author           = { "Temasys Communications" => "yuxi.liu@temasys.io" }
-  s.source           = { :git => "https://github.com/lyx501135/WebRTC_Skylink.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/lyx501135/WebRTC.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '9.0'
   s.requires_arc = true
